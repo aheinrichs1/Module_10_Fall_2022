@@ -12,7 +12,7 @@ import datetime
 class Employee:
     """Employee Class"""
 
-    # Contructor
+    # Constructor
     def __init__(self, lname, fname, addy, phone_number, salaried, start_date, salary):
         self._last_name = lname
         self._first_name = fname
