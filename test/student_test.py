@@ -1,3 +1,10 @@
+"""
+Program: student_test.py
+Author: Alex Heinrichs
+Date Created: 11/2/2022
+
+Contains tests for the Student class in Student.py
+"""
 import unittest
 from class_definitions import Student as t
 

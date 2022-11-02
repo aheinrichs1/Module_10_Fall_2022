@@ -1,3 +1,12 @@
+"""
+Program: Student.py
+Author: Alex Heinrichs
+Date Created: 11/2/2022
+
+Contains a student class to be tested by student_test.py
+"""
+
+
 class Student:
     """Student class"""
     def __init__(self, lname, fname, major, gpa=0.0):
